@@ -1,3 +1,8 @@
+
+肖伟宇，极客时间net core开发
+校宝在线架构师、SkyWalking .NET探针贡献者、NetCorePal组件库创建者 
+
+
 # 项目说明
 
 ## 部署
